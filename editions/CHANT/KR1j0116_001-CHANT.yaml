@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1j0116/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小學篇篦刷也四分律十九僧祇律三十四成實論四佛本行讚經四陣顏氏家訓書證篇芴菁北戶錄𦬘仝上四分律十三
+  hash: sha256:492b82f990d508b97a29d79b99c35eeae57d164e248653cbc6175ceac268ee77
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1j0116_CHANT_001-1a.1-h}
+metadata:
+  title: 小學篇
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR1j0116.xml
+hash: sha256:08eb087e23717a4b69685e3cfb3656c978cb72c9d557b636d2e88eb13b13e69d
