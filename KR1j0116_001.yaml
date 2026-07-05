@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 小學篇篦刷也四分律十九僧祇律三十四成實論四佛本行讚經四陳顏氏家訓書證篇芴菁北戶録𦬘同上四分律十三
-  hash: sha256:0feff13009d4719e80598b3b37196e5ddbda89f56ee5db6eba30b607c8b6e1ea
+  text: 小學篇篦刷也四分律十九僧祇律三十四成實論四佛本行讚經四陣顏氏家訓書證篇芴菁北戶錄𦬘仝上四分律十三
+  hash: sha256:492b82f990d508b97a29d79b99c35eeae57d164e248653cbc6175ceac268ee77
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR1j0116_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR1j0116.xml
-hash: sha256:19d34973f1b0a2e350d36a0f9cbc2d461f0f73d6e2b20808cc074b48f777affb
+hash: sha256:08eb087e23717a4b69685e3cfb3656c978cb72c9d557b636d2e88eb13b13e69d

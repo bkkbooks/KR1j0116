@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1j0116_001.yaml, hash: 'sha256:19d34973f1b0a2e350d36a0f9cbc2d461f0f73d6e2b20808cc074b48f777affb'}
+  - {seq: 1, filename: KR1j0116_001.yaml, hash: 'sha256:08eb087e23717a4b69685e3cfb3656c978cb72c9d557b636d2e88eb13b13e69d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1j0116_001.markers.yaml, hash: 'sha256:726cbec9bdaec07a9ea390a8935ce1b0f1a3903183e37d97e23f064c59a63ae2'}
+  - {seq: 1, role: markers, filename: assets/KR1j0116_001.markers.yaml, hash: 'sha256:1120efaeb7c95246350a56dcfb4b2ca1bb7a31f86c44335f869145ea0b3efbac'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 小學篇
   type: section
   level: 1
-hash: sha256:e3ab4e0a4157302e888945366d04cc70d7c80817ea72f4a4a27b3efbb2a1b47d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b42ab2ccb66efa3a72a7b2a363a38c576839a5edc3abecd7555df1172bd23321
