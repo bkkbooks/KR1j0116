@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1j0116/v1
 canonical_location: https://kanripo.org/bkk/KR1j0116/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 小學篇
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1j0116_001.yaml, hash: 'sha256:08eb087e23717a4b69685e3cfb3656c978cb72c9d557b636d2e88eb13b13e69d'}
+  - {seq: 1, filename: KR1j0116_001.yaml, hash: 'sha256:7f921a52a09579bd8150cd0df56ad94dad3a55e3d82c9e15f4ea94e31835cafa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1j0116_001.markers.yaml, hash: 'sha256:1120efaeb7c95246350a56dcfb4b2ca1bb7a31f86c44335f869145ea0b3efbac'}
+  - {seq: 1, role: markers, filename: assets/KR1j0116_001.markers.yaml, hash: 'sha256:deb18ce7f1a629b2e6f56b60c0c7553a6c869292059b5c26a31bad92b262c043'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 小學篇
   type: section
   level: 1
-hash: sha256:b42ab2ccb66efa3a72a7b2a363a38c576839a5edc3abecd7555df1172bd23321
+hash: sha256:69b3a5f347c57e6c3a6ebb77b2fdab48621d5d1b1cf920b68321822827d93ecc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
